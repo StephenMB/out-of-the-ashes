@@ -1,6 +1,6 @@
 # Procedures
 
-Before you start transcribing a portion, create an empty file under `transcription` called `0001-0025.md` (or whatever the page range is). Always use 4-digit numbers for the page range, with leading 0s if necessary.
+Before you start transcribing a portion, create an empty file under `transcription` called `0001-0025.md` (or whatever the page range is). Always use 4-digit numbers for the page range, with leading 0s if necessary. Page numbers should refer to the page numbers printed in the book, not the page numbers of the PDF file.
 
 For pages with roman-numeral page numbers, convert the page numbers to digits and prefix the filename with a hyphen: `-0005-0020.md`
 

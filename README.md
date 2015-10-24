@@ -43,7 +43,7 @@ Format chapter headings like this:
 
 Second-level headings should get two # signs; third-level should get three, etc.
 
-Transcribe small-caps as ALL CAPS, unless it's in a header, in which case use `Title Case`.
+Transcribe small-caps as ALL CAPS, unless it's in a header, in which case use Title Case.
 
 Remove all single line breaks within a paragraph. Separate paragraphs with a double line break. If the text contains a gap between paragraphs, denote this by a quadruple hyphen in its own paragraph:
 

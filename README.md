@@ -10,6 +10,12 @@ When you're finished with the range, edit the file and paste in your work. Don't
 
 A file should contain all the text within the page range (with exceptions given below), and no other text, even if this means that the file stops in the middle of a sentence. If a word is hyphenated across two pages, it should be considered to belong to the first of those pages.
 
+If a page range contains no transcribable text at all, you should still create a file for that range, containing only:
+
+    <<<BLANK>>>
+
+It's still useful to have these files, because otherwise a gap in the sequence of filenames would lead someone to believe that there's missing text there.
+
 It is also helpful to proofread the transcriptions added by others. Before you do this, make a blank file under `proofreading` with the same file name. This tells others that you're working on proofreading the file, and so they shouldn't do it themselves. When you're done proofreading, paste the edited and corrected text into this blank file.
 
 Don't proofread a transcription that you yourself created.
@@ -25,9 +31,9 @@ The text uses American spelling and punctuation rules: follow these. Transcribe 
 
     ...had come before it's<<<SIC: I think this should be "its">>> time, but...
 
-In general, <<<TRIPLE ANGLE BRACKETS>>> should be used to signal that something in the text needs to be fixed later.
+In general, `<<<TRIPLE ANGLE BRACKETS>>>` should be used to signal that something in the text needs to be fixed later.
 
-Disregard tables and figures entirely. Instead, put a note in the text saying `<<<FIGURE 1>>>` or `<<<TABLE 7>>>` or whatever. (Again, make sure to use <<<>>>).
+Disregard tables and figures entirely. Instead, put a note in the text saying `<<<FIGURE 1>>>` or `<<<TABLE 7>>>` or whatever. (Again, make sure to use `<<<>>>`).
 
 Disregard the front matter, table of contents, list of tables, and the index.
 
@@ -49,7 +55,7 @@ The OCR text usually loses the accents; be sure and put them back in. For your c
 
 Mark blockquotes with > signs:
 
-	> This is what the code looks like
+    > This is what the code looks like
 
 > This is what the output looks like
 

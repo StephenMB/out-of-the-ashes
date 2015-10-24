@@ -39,7 +39,7 @@ Disregard the front matter, table of contents, list of tables, and the index.
 
 Format chapter headings like this:
 
-    # Chapter 7: Labor's Love Lost
+    # Chapter 7: Time for Reckoning
 
 Second-level headings should get two # signs; third-level should get three, etc.
 
@@ -66,5 +66,7 @@ If a blockquote has multiple paragraphs, separate those paragraphs with a line c
 Where the text contains a footnote, transcribe the footnote **in place** and surround it with `<sup>superscript tags</sup>`. Do not transcribe the number of the footnote.
 
 Don't worry about straight vs. curly quotes. However, if you find a place where a 9-shaped single quote appears at the beginning of a word, prefix it with a backslash: `That \'70s Show`
+
+Transcribe an ellipsis with 3 or 4 periods as in the text, but don't put spaces between them: `...` not `. . .`
 
 If you find something in the text that you don't know how to transcribe, check this file to see if it says what to do. If it doesn't, make up your own convention and add a paragraph to this Manual of Style explaining it. This will help ensure consistency throughout the document.

@@ -39,7 +39,7 @@ Disregard the front matter, table of contents, list of tables, and the index.
 
 Format chapter headings like this:
 
-   # Chapter 7: Labor's Love Lost
+    # Chapter 7: Labor's Love Lost
 
 Second-level headings should get two # signs; third-level should get three, etc.
 
